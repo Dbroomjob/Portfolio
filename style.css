@@ -24,7 +24,12 @@ body {
   float: left;
   width: 620px;
 }
- 
+
+.btn-default {
+  color: #333;
+  background-color: #fff;
+  border: 1px solid #ccc;
+}
 .textContainer {
   float: left;
   width: 300px;
