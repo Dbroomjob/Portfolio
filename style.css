@@ -14,7 +14,7 @@ body {
 setting page container
 */ 
 .pageContainer {
-  height: 940px;
+  width: 940px;
   margin: 20px auto 0 auto;
   padding: 20px;
   background-color: white;
@@ -36,7 +36,7 @@ Stlyes the button
 sets values for images
 */
 .imageContainer {
-  hight: 620px;
+  width: 620px;
 }
 /* 
 defines properties for a button		
@@ -50,7 +50,7 @@ defines properties for a button
 attributes for a text container	
 */
 .textContainer {
-  height: 300px;
+  width: 300px;
   margin-left: 20px;
   margin-top: 20px;
 }
@@ -58,7 +58,7 @@ attributes for a text container
 sets image size		
 */
 img {
-  height: 50%;
+  width: 50%;
 }
 /* 
 styles header 1		
