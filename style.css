@@ -61,7 +61,30 @@ p, li {
   font-size: 22px;
   color: green;
 }
-
+/* Default */
+a {
+  color: blue;
+}
+/* Unvisited links */
+a:link {
+  color: blue;
+}
+/* Visited links */
+a:visited {
+  color: purple;
+}
+/* Hover state */
+a:hover {
+  color: red; 
+}
+/* Focused state */
+a:focus {
+  color: orange;
+}
+/* Activated state */
+a:active {
+  color: green;
+}
 
 
 
