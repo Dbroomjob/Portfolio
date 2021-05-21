@@ -50,7 +50,6 @@ defines properties for a button
 attributes for a text container	
 */
 .textContainer {
-  float: left;
   width: 300px;
   margin-left: 20px;
   margin-top: 20px;
