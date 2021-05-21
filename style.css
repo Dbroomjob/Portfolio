@@ -5,13 +5,13 @@ CSS Sheet
 
 @import url(https://fonts.googleapis.com/css?family=Fredericka+the+Great|Lato);
 /* 
-CSS Sheet		
+body and background color style attributes
 */
 body {
   background-color: blue;
 }
 /* 
-CSS Sheet		
+setting page container
 */ 
 .pageContainer {
   width: 940px;
@@ -20,7 +20,7 @@ CSS Sheet
   background-color: white;
 }
 /* 
-CSS Sheet		
+Stlyes the button	
 */
 .btn {
   display: inline-block;
